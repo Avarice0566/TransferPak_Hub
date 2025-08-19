@@ -12,3 +12,5 @@ This repository provides a standalone Transfer Pak hub PCB designed to fit insid
 - **Use at your own risk.** I am not responsible for any damage to your N64, its accessories, or your Game Boy cartridges.  
 
 <img width="1495" height="930" alt="N64TP_HUB" src="https://github.com/user-attachments/assets/66b2216b-e2fe-4618-b8c1-470851ff7cec" />
+
+Special thanks to Modman(RWeick), Bigbass, and everyone on the N64BREW Discord.
