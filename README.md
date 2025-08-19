@@ -4,7 +4,8 @@ This repository provides a standalone Transfer Pak hub PCB designed to fit insid
 
 ## Requirements
 - Transplant all surface-mount and DIP components from an **N64 controller PCB** (model: `CFS8120-200010-00`).  
-- Optionally, add a **1.8mm LED** with the appropriate resistor to utilize the DexDrive case’s LED diffuser.  
+- Optionally, add a **1.8mm LED** with the appropriate resistor to utilize the DexDrive case’s LED diffuser.
+- Digikey Part No. SW1139-ND can be used to plug the DC jack hole in the dexdrive case
 
 ## Notes
 - All DIP components are mounted on the opposite side of the board for clearance.  
