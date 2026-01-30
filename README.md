@@ -13,4 +13,14 @@ This repository provides a standalone Transfer Pak hub PCB designed to fit insid
 
 <img width="1495" height="930" alt="N64TP_HUB" src="https://github.com/user-attachments/assets/66b2216b-e2fe-4618-b8c1-470851ff7cec" />
 
+
+- Bottom label. Replaces Interact DEXDRIVE label with something that looks more akin to a real Nintendo product. (The label needs to be 26mm in height and 35mm in width)
+
+<img width="1536" height="1024" alt="TPpak  hub label" src="https://github.com/user-attachments/assets/a604908a-6fb2-4c50-a878-3b7aefc32a0a" />
+
+
 Special thanks to Modman(RWeick), Bigbass, and everyone on the N64BREW Discord.
+
+
+
+
